@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-maven-repo" />
+      <option name="name" value="local-maven-repo" />
+      <option name="url" value="file://$MAVEN_REPOSITORY$" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonatype-forge" />
+      <option name="name" value="sonatype-forge" />
+      <option name="url" value="https://repository.sonatype.org/content/groups/forge/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cloudera" />
+      <option name="name" value="cloudera" />
+      <option name="url" value="https://repository.cloudera.com/artifactory/cloudera-repos/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-public-repository-group" />
+      <option name="name" value="JBoss Public Repository Group" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-public-repository-group-releases" />
+      <option name="name" value="JBoss Public Repository Group" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fk-art-release" />
+      <option name="name" value="Flipkart-Artifactory" />
+      <option name="url" value="http://artifactory.fkinternal.com/artifactory/v1.0/artifacts/libs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-public-repository-group-jboss" />
+      <option name="name" value="JBoss Public Maven Repository Group" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/groups/public-jboss/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-public-repository-group-third" />
+      <option name="name" value="JBoss Public Repository Group" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/thirdparty-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fk-art-snapshot" />
+      <option name="name" value="Flipkart-Artifactory1" />
+      <option name="url" value="http://artifactory.fkinternal.com/artifactory/v1.0/artifacts/libs-snapshots-local" />
+    </remote-repository>
+  </component>
+</project>
